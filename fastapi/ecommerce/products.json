@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "name":"sakshi",
+        "description":"buy an electronic item",
+        "price":44.6,
+        "stock":3,
+        "category":"electronics"
+
+    }
+]
